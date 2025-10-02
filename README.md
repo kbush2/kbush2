@@ -5,9 +5,11 @@
 - Practicing Windows administration, Splunk SIEM, Active Directory, and networking.
 - Documenting each lab step-by-step with screenshots for recruiters and peers.
 
-💻 **Repos to check out:**
+💻 Repos to check out:
 - [Windows Labs](https://github.com/kbush2/Windows-Labs) — Windows VM labs: user management, Event Viewer, networking, and Active Directory (coming soon).
+- [Linux Labs](https://github.com/kbush2/linux-labs) — RHEL labs for RHCSA prep: user/group management, permissions, ACLs, LVM, SELinux, and systemd.
 - [Splunk Labs](https://github.com/kbush2/Splunk-Labs) — SIEM labs: search, reports, fields, lookups, and dashboards.
+
 
 ⚡ **Background:**
 - U.S. Army Veteran with leadership and problem-solving skills.
