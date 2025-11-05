@@ -12,7 +12,7 @@
 - 🐧 [**Linux Labs**](https://github.com/kbush2/Linux_Labs) — RHEL labs for RHCSA prep: user/group management, permissions, ACLs, LVM, SELinux, and systemd.  
 - 🔍 [**Splunk Labs**](https://github.com/kbush2/Splunk_Labs) — SIEM labs: searches, reports, lookups, and dashboards.  
 - 🧠 [**SQL Helpdesk Analytics Lab**](https://github.com/kbush2/SQL_Helpdesk_Analytics_Lab) — SQL analytics project simulating a helpdesk ticketing database: queries, joins, KPIs, and dashboards.  
-- 🍏 [**macOS IT Support & Security Labs (CBP OIT Prep)**](https://github.com/kbush2/macOS_IT_Support) — macOS administration, automation, endpoint hardening, and incident-response labs designed for DHS CBP OIT readiness.
+- 🍏 [**macOS IT Support & Security Labs (CBP OIT Prep)**](https://github.com/kbush2/macOS_IT_Support_Labs) — macOS administration, automation, endpoint hardening, and incident-response labs designed for DHS CBP OIT readiness.
 
 ---
 
