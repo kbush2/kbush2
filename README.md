@@ -8,7 +8,7 @@
 
 💻 **Repos to check out:**
 
-- 🪟 [**Windows Labs**](https://github.com/kbush2/Windows_Labs) — Windows VM labs: user management, Event Viewer, networking, and Active Directory *(coming soon).*  
+- 🪟 * [Windows Labs](https://github.com/kbush2/Windows-Labs) — Windows VM labs: user management, Event Viewer, networking, and Active Directory *(coming soon).*  
 - 🐧 [**Linux Labs**](https://github.com/kbush2/Linux_Labs) — RHEL labs for RHCSA prep: user/group management, permissions, ACLs, LVM, SELinux, and systemd.  
 - 🔍 [**Splunk Labs**](https://github.com/kbush2/Splunk_Labs) — SIEM labs: searches, reports, lookups, and dashboards.  
 - 🧠 [**SQL Helpdesk Analytics Lab**](https://github.com/kbush2/SQL_Helpdesk_Analytics_Lab) — SQL analytics project simulating a helpdesk ticketing database: queries, joins, KPIs, and dashboards.  
